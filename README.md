@@ -5,5 +5,6 @@ paddle. Game is made only using Java.
 
 here is some screenshots of gameplay:
 
+![](animation.gig)
 ![](Screenshot%20(69).png)
 ![](Screenshot%20(68).png)
